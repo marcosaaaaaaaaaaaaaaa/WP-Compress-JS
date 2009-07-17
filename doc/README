@@ -1,0 +1,8 @@
+-Do you:
+    -Wanna run the test suit?
+        -download simple test from http://www.simpletest.org/
+        -Then you must (choose one):
+            -put the folder content (simpletest) INSIDE wp_compress_js test directory
+            -put the folder content (simpletest) in your PHP include path
+    
+    
